@@ -1,0 +1,76 @@
+User-agent: *
+
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /~joe/
+
+Disallow: application/cache/*
+Disallow: application/config/*
+Disallow: application/controllers/*
+Disallow: application/core/*
+Disallow: application/errors/*
+Disallow: application/helpers/*
+Disallow: application/hooks/*
+Disallow: application/language/*
+Disallow: application/libraries/*
+Disallow: application/logs/*
+Disallow: application/models/*
+Disallow: application/third_party/*
+Disallow: css/*
+Disallow: font-awesome/*
+Disallow: fonts/*
+Disallow: img/*
+Disallow: js/*
+Disallow: system/*
+Disallow: user_guide/*
+Disallow: ./*
+
+
+allow: license.txt
+
+
+
+Disallow: /projetos/*
+Disallow: /Curriculos/*
+Disallow: /lixo/*
+Disallow: /france/*
+Disallow: /English/*
+Disallow: /espanol/*
+Disallow: /logotipo/*
+Disallow: /js/*
+Disallow: /jquery/*
+Disallow: /logo/*
+Disallow: /paginademusica/*
+Disallow: /midia-social/*
+Disallow: /temas-para-caixa-de-efeito/*
+Disallow: /templates/*
+Disallow: /fonts/*
+Disallow: /imagens/*
+Disallow: /images/*
+Disallow: /Curriculos/*
+Disallow: /OpenGraphProtocol/*
+Disallow: /sitesdesenvolvidos/*
+Disallow: /blogpessoal/*
+Disallow: /css/*
+
+
+
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.less$
+Disallow: /*.min.js$
+Disallow: /*.jpeg$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /*.css$
+Disallow: /*.woof$
+Disallow: /*.ico$
+Disallow: /*.rar$
+Disallow: /*.zip$
+Disallow: /*.txt$
+Disallow: /*.sql$
+Disallow: /*.tar.gz$
+Disallow:/*.pdf$
+Disallow: /*.?
+
+
